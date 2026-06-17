@@ -22,4 +22,4 @@ Tenho experiência com suporte técnico, manutenção de hardware e desenvolvime
 
 Cyrius Bernardo do Nascimento
 
-GitHub: https://github.com/cyriusBN
+GitHub: https://github.com/CyriusBN
