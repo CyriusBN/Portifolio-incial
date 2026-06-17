@@ -6,9 +6,9 @@ O objetivo deste projeto foi praticar desenvolvimento web utilizando HTML, CSS e
 
 ## Sobre mim
 
-Meu nome é Cyrius Bernardo do Nascimento, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Cruzeiro.
+Meu nome é Cyrius Bernardo do Nascimento e sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Cruzeiro.
 
-Tenho experiência com suporte técnico, manutenção de hardware e desenvolvimento web. Atualmente estou buscando oportunidades de estágio na área de desenvolvimento, com foco em Back-End.
+Tenho experiência com suporte técnico, manutenção de hardware e desenvolvimento web. Atualmente estou buscando oportunidades de estágio na área de desenvolvimento, com foco em Desenvolvimento.
 
 ## Tecnologias utilizadas
 
