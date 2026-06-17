@@ -8,7 +8,7 @@ O objetivo deste projeto foi praticar desenvolvimento web utilizando HTML, CSS e
 
 Meu nome é Cyrius Bernardo do Nascimento e sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Cruzeiro.
 
-Tenho experiência com suporte técnico, manutenção de hardware e desenvolvimento web. Atualmente estou buscando oportunidades de estágio na área de desenvolvimento, com foco em Desenvolvimento.
+Tenho experiência com suporte técnico, manutenção de hardware e desenvolvimento web. Atualmente estou buscando oportunidades de estágio na área de desenvolvimento.
 
 ## Tecnologias utilizadas
 
